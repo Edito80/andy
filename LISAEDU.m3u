@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6fSZuC37H_8/XCFffWKPCLI/AAAAAAAAHO0/YXsD24XvKJotpee3yNzDsCWqPFvbdpDcgCLcBGAs/w350-h350-p-k-no-nu/Unitel%2Ben%2Bvivo-crop.png"
+group-title="UNITEL",UNITEL HD LA PAZ
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWj8AEhHDx6dQJ1geXN1emcN_FLuOAncpxhgCAvn-iBm)/dm/3/x7vsezg/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6fSZuC37H_8/XCFffWKPCLI/AAAAAAAAHO0/YXsD24XvKJotpee3yNzDsCWqPFvbdpDcgCLcBGAs/w350-h350-p-k-no-nu/Unitel%2Ben%2Bvivo-crop.png"
+group-title="UNITEL",UNITEL HD SANTA CRUZ
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbjLlQ-Xh0njVyXIQRDH-UyjCcZM6QR8jrleCanZlihW)/dm/3/x7vsfua/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6fSZuC37H_8/XCFffWKPCLI/AAAAAAAAHO0/YXsD24XvKJotpee3yNzDsCWqPFvbdpDcgCLcBGAs/w350-h350-p-k-no-nu/Unitel%2Ben%2Bvivo-crop.png"
+group-title="UNITEL",UNITEL HD COCHABAMBA
+https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUOml8esEi-AjPFJA1Pw_WCEN_wy3_2XsX3tgKTfn1ymS)/dm/3/x7y922d/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png"
+group-title="RED UNO",RED UNO HD LA PAZ
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnawGN94wmGlIOpGeSix41AeWwxnZHy_K6DVSX5KqWdd)/dm/3/x825whp/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png"
+group-title="RED UNO",RED UNO HD SANTA CRUZ
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhQE9kEe_xNOiGtxZhBqz0Xk81cGtx26iJ9xKIe_HdRD)/dm/3/x828xvr/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/--7IX2NCKelU/XCFC17d96gI/AAAAAAAAHN0/u3Qj0frMRGMNHKWr3dpKYJfCbbo94kANACLcBGAs/w350-h350-p-k-no-nu/Red%2BUno%2Ben%2Bvivo.png"
+group-title="RED UNO",RED UNO HD COCHABAMBA
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLk4XW_TBGiTYFIRH87YdN1ajHpb45WivaMawa34FcIWE)/dm/3/x827j2y/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gTb0jCU-4_k/XGmTN_WQUPI/AAAAAAAAHXw/sVgJLOyIkq8uK61sLTMEp2_s2bJwxbpkgCLcBGAs/w350-h350-p-k-no-nu/Canal%2BATB%2Ben%2Bvivo.png"
+group-title="ATB",ATB HD LA PAZ
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvXnViXsEblyOIhBb7WEzqZBaN9TJU5TPZvHd-24k_rN)/dm/3/x84eirw/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gTb0jCU-4_k/XGmTN_WQUPI/AAAAAAAAHXw/sVgJLOyIkq8uK61sLTMEp2_s2bJwxbpkgCLcBGAs/w350-h350-p-k-no-nu/Canal%2BATB%2Ben%2Bvivo.png"
+group-title="ATB",ATB HD SANTA CRUZ
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlS611VIQ5tv2DzCpDOEzLb3AdflLDQi6nXUxliGI8cv)/dm/3/x84t82c/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-gTb0jCU-4_k/XGmTN_WQUPI/AAAAAAAAHXw/sVgJLOyIkq8uK61sLTMEp2_s2bJwxbpkgCLcBGAs/w350-h350-p-k-no-nu/Canal%2BATB%2Ben%2Bvivo.png"
+group-title="ATB",ATB HD COCHABAMBA
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9wasN7ofiQH3NRiay-vnnXfuTYNBAA_11yDOFaCFcrj)/dm/3/x89sfvo/s/live-1.m3u8
+
+
+
+
+
+
